@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qeturabitiu.pages.dev/sitemap.xml
